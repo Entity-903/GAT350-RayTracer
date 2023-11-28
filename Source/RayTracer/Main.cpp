@@ -1,6 +1,7 @@
 #include <iostream>
 
 #include "Renderer.h"
+#include "Random.h"
 
 int main(int, char**)
 {
@@ -9,6 +10,8 @@ int main(int, char**)
 	Renderer renderer;
 	renderer.Initialize();
 	renderer.CreateWindow("Ray Tracing", 400, 300);
+
+	seedRandom((unsigned int)time(nullptr));
 
 	bool quit = false;
 	while (!quit)

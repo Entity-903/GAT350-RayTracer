@@ -22,8 +22,8 @@ void Renderer::Shutdown()
 
 bool Renderer::CreateWindow(const std::string& title, int width, int height)
 {
-	// 2560 * 1600
-	m_window = SDL_CreateWindow(title.c_str(), 650, 400, width, height, SDL_WINDOW_OPENGL);
+	// Resolution = 2560 * 1600
+	m_window = SDL_CreateWindow(title.c_str(), 640, 400, width, height, SDL_WINDOW_SHOWN);
 	if (!m_window)
 	{
 		std::cerr << "SDL Error: " << SDL_GetError() << std::endl;
