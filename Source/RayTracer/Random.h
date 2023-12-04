@@ -1,6 +1,7 @@
 #pragma once
 #include <stdlib.h>
 #include <utility>
+#include <random>
 
 inline void seedRandom(unsigned int seed)
 {
@@ -16,4 +17,5 @@ inline float random01()
 inline float random(float min, float max)
 {
 	if (min > max) std::swap(min, max);
+	return (random01() * (max - min) + min);
 }
