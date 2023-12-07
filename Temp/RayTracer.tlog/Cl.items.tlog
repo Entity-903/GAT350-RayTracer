@@ -1,7 +1,8 @@
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Camera.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Camera.obj
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Canvas.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Canvas.obj
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Main.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Main.obj
+C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Material.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Material.obj
+C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Plane.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Plane.obj
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Renderer.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Renderer.obj
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Scene.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Scene.obj
 C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\Sphere.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\Sphere.obj
-C:\Year2\Computer Graphics\GAT350-RayTracer\Source\RayTracer\StringUtils.cpp;C:\Year2\Computer Graphics\GAT350-RayTracer\Temp\StringUtils.obj
